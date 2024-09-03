@@ -6,7 +6,7 @@ Sacrificial saykin, sacrificial kin
 [<img src="./IMG_8090.png" width="70%">](https://x.com/Pasteru_Artz)
 
 
-[<img src="./DQb9PoAXUAEatnW.png" width="10%">](https://www.moj.go.jp/psia/20140331.aum.top.html) <img src="./DQb9PoAXUAEatnW.png" width="25%">
+[<img src="./DQb9PoAXUAEatnW.png" width="10%">](https://www.moj.go.jp/psia/20140331.aum.top.html) <img src="./DQb9PoAXUAEatnW.png" width="10%">
 <img src="./emoji.png" width="15%"> <img src="./emoji.png" width="15%"> 
 <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%">
 <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> [<img src="./SPOILER_IMG_7153.png" width="10%">](https://x.com/Kai_Artz12345)
