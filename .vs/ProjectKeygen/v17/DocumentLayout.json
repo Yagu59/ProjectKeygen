@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|o:\\c#box\\k3ygen\\projectkeygen\\projectkeygen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|solutionrelative:projectkeygen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|o:\\c#box\\k3ygen\\projectkeygen\\projectkeygen\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|solutionrelative:projectkeygen\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D547AE5A-7BD8-4397-AC91-2699B4550183}|..\\..\\..\\DriveO_univ\\CSharpBox\\TUTAppPortal\\TUTAppPortal\\Wrider\\Wrider.csproj|o:\\driveo_univ\\csharpbox\\tutappportal\\tutappportal\\wrider\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|o:\\c#box\\k3ygen\\projectkeygen\\projectkeygen\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|solutionrelative:projectkeygen\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|o:\\c#box\\k3ygen\\projectkeygen\\projectkeygen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C099E7CB-477F-40FB-A902-CD5F7B1DED85}|ProjectKeygen\\ProjectKeygen.csproj|solutionrelative:projectkeygen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Settings.cs",
+              "RelativeDocumentMoniker": "ProjectKeygen\\Settings.cs",
+              "ToolTip": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Settings.cs",
+              "RelativeToolTip": "ProjectKeygen\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:58:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "O:\\DriveO_univ\\CSharpBox\\TUTAppPortal\\TUTAppPortal\\Wrider\\File.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DriveO_univ\\CSharpBox\\TUTAppPortal\\TUTAppPortal\\Wrider\\File.cs",
+              "ToolTip": "O:\\DriveO_univ\\CSharpBox\\TUTAppPortal\\TUTAppPortal\\Wrider\\File.cs",
+              "RelativeToolTip": "..\\..\\..\\DriveO_univ\\CSharpBox\\TUTAppPortal\\TUTAppPortal\\Wrider\\File.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:39:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectKeygen\\Form1.cs",
+              "ToolTip": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Form1.cs",
+              "RelativeToolTip": "ProjectKeygen\\Form1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:07:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Config.cs",
+              "RelativeDocumentMoniker": "ProjectKeygen\\Config.cs",
+              "ToolTip": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Config.cs",
+              "RelativeToolTip": "ProjectKeygen\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:36:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectKeygen\\Form1.cs",
+              "ToolTip": "O:\\C#BOX\\K3ygen\\ProjectKeygen\\ProjectKeygen\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ProjectKeygen\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:59:13.637Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

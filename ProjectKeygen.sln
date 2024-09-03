@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectKeygen", "ProjectKeygen\ProjectKeygen.csproj", "{C099E7CB-477F-40FB-A902-CD5F7B1DED85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wrider", "..\..\..\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\Wrider.csproj", "{D547AE5A-7BD8-4397-AC91-2699B4550183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C099E7CB-477F-40FB-A902-CD5F7B1DED85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C099E7CB-477F-40FB-A902-CD5F7B1DED85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C099E7CB-477F-40FB-A902-CD5F7B1DED85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C099E7CB-477F-40FB-A902-CD5F7B1DED85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D547AE5A-7BD8-4397-AC91-2699B4550183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D547AE5A-7BD8-4397-AC91-2699B4550183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D547AE5A-7BD8-4397-AC91-2699B4550183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D547AE5A-7BD8-4397-AC91-2699B4550183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CE707B-12C9-4BE0-9F3D-266C1F7398E7}
+	EndGlobalSection
+EndGlobal
