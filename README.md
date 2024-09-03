@@ -3,7 +3,7 @@
 # 犠牲になったセイキン、犠牲キン 
 Sacrificial saykin, sacrificial kin
 
- <img src="./IMG_8090.png" width="70%"> 
+[<img src="./IMG_8090.png" width="70%">](https://x.com/Pasteru_Artz)
  <img src="./SPOILER_IMG_7153.png" width="15%">
 
 
