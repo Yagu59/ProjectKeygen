@@ -8,7 +8,7 @@ Sacrificial saykin, sacrificial kin
 
 <img src="./DQb9PoAXUAEatnW.png" width="25%"> <img src="./DQb9PoAXUAEatnW.png" width="25%">
 <img src="./emoji.png" width="15%"> <img src="./emoji.png" width="15%"> 
-<img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img [src="./SPOILER_IMG_7153.png" width="10%">](https://x.com/Kai_Artz12345)
+<img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img [<src="./SPOILER_IMG_7153.png" width="10%">](https://x.com/Kai_Artz12345)
 <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%">
 <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%"> <img src="./SPOILER_IMG_7153.png" width="10%">
 <img src="./image209363819.png" width="100%"> 
