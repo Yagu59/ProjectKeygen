@@ -1,5 +1,5 @@
 # ProjectKeygen
-# This is a fake, made by Mr. Beans.
+# [This is a fake, made by Mr. Beans](https://x.com/KOUHEITV)
 # 犠牲になったセイキン、犠牲キン 
 Sacrificial saykin, sacrificial kin
 
