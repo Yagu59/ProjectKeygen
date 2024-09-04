@@ -1,0 +1,9 @@
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\bin\Debug\Wrider.dll
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\bin\Debug\Wrider.pdb
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\bin\Debug\Newtonsoft.Json.dll
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\bin\Debug\Newtonsoft.Json.xml
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\obj\Debug\Wrider.csproj.AssemblyReference.cache
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\obj\Debug\Wrider.csproj.CoreCompileInputs.cache
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\obj\Debug\Wrider.csproj.Up2Date
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\obj\Debug\Wrider.dll
+O:\DriveO_univ\CSharpBox\TUTAppPortal\TUTAppPortal\Wrider\obj\Debug\Wrider.pdb
